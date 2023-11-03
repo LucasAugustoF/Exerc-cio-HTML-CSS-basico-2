@@ -1,6 +1,6 @@
 # Exerc-cio-HTML-CSS-basico-2
 
-DESAFIOHTML + CSS BÁSICO
+DESAFIO HTML + CSS BÁSICO
 
 
 *Crie uma imagem com link externo:*
